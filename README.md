@@ -40,6 +40,7 @@ O dashboard responde as seguintes perguntas de negócio:
 ```
 dashboard-xbox-gamepass/
 │
+├── base.xlsx               # Base de dados fornecida pelo desafio TOTVS
 ├── dashboard_xbox.xlsx     # Dashboard completo com dados e visualizações
 └── README.md
 ```
